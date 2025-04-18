@@ -1,6 +1,6 @@
 #!name=Amazon MITM (1)
 #!desc=最后更新时间 2024-07-03 16:16:12
-#!author=blackmatrix7
+#!author=SayMeeveTime
 #!repo=https://github.com/zhaomo08/surge_rules.git
 
 [MITM]
