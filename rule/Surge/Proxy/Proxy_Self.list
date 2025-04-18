@@ -1,0 +1,8 @@
+# NAME: Proxy
+# AUTHOR: SayMeeveTime
+# REPO: https://github.com/zhaomo08/surge_rules.git
+
+DOMAIN-SUFFIX,vrv.co,zgo
+DOMAIN-SUFFIX,crunchyrollcdn.com,zgo
+DOMAIN-SUFFIX,crunchyrollsvc.com,zgo
+DOMAIN-SUFFIX,crunchyroll.com,zgo
