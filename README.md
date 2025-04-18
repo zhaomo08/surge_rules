@@ -19,20 +19,19 @@
 
 **我们并不生产规则，我们只是开源规则的搬运工。**
 
-分流规则
+使用方式
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
 
-复写规则
 
-https://github.com/blackmatrix7/ios_rule_script/tree/master/rewrite
+https://raw.githubusercontent.com/zhaomo08/surge_rules/master/rule/Surge/xxx/xxx.list
+
+
+https://raw.githubusercontent.com/zhaomo08/surge_rules/master/rule/Surge/CCTV/CCTV.list
+
+
 
 所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
 
-
-项目中资源来自互联网上其他开源项目（具体以不同目录的说明为准），这里主要进行一些整合和备份。对于此类资源，无法对使用过程中出现的任何问题进行解答，您需要联系原作者。
-
-地址：https://github.com/blackmatrix7/ios_rule_script/tree/master/external
 
 # 感谢
 
